@@ -15,7 +15,7 @@
        <div id="botao"> <a class="btn btn-primary" href="/TESTE CRUD/create.php" role="button">Novo Convidado</a> </div>  
         <br>
         <section>
-        <table class="table table-striped">
+        <table class="ta">
             <thead>
                 <tr>
                     <th>Nome</th>
